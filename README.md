@@ -1,4 +1,4 @@
-#Busecretary
+Busecretary
 
 ##Philosophy
 Time leads to space,space leads to substance,substance leads to soul.
@@ -7,14 +7,14 @@ I don`t have that time to remember what I planed to do next. I need
 a notification,clearly and simply.
 
 ## What
-I`m try to manage my TODO business simply and clearly.So I need a 
+I am trying to manage my TODO business simply and clearly.So I need a 
 secretary,a smart business secretary, that`s why I call it Busecretary.
 
 ##Why
 Insofar as we know,there are already so many calendar apps,why don`t
 I use them.Simply saying,they are too comlex or too pool.
 
-I always forget something, and I want to be notified when it`s time
+I always forget something, and I want to be notified when it is time
 to do something. However, the existent apps cannot satisfy my 
 requirement fully. Alarm can simply notify me every day, and only a
 few alarms can be set. The calendar is complex to use and cannot set
